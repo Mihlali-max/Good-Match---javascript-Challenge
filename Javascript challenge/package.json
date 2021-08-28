@@ -1,0 +1,19 @@
+{
+  "name": "javascript-challenge",
+  "version": "1.0.0",
+  "description": "Good Match Challenge",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mihlali-max/Good-Match---javascript-Challenge.git"
+  },
+  "author": "Mihlali Momoza",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mihlali-max/Good-Match---javascript-Challenge/issues"
+  },
+  "homepage": "https://github.com/Mihlali-max/Good-Match---javascript-Challenge#readme"
+}
